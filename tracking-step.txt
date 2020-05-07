@@ -7,4 +7,5 @@ Add task steps:
 5. created "Git_training" folder on desktop
 6. opened Git Bash and initialized folder using "git init"
 7. created a text file and saved to folder - "tracking-step.txt"
-
+8. added "tracking-step.txt" to repository using "git add ."
+9. commit newly added file
