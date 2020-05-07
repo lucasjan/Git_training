@@ -1,1 +1,10 @@
 Add task steps:
+
+1. created Github account
+2. verified account
+3. created online repository "Git_training", note: skip "Initialize this repository with a README"
+4. downloaded git software for remote.
+5. created "Git_training" folder on desktop
+6. opened Git Bash and initialized folder using "git init"
+7. created a text file and saved to folder - "tracking-step.txt"
+
