@@ -9,3 +9,7 @@ Add task steps:
 7. created a text file and saved to folder - "tracking-step.txt"
 8. added "tracking-step.txt" to repository using "git add ."
 9. commit newly added file
+10. pointed local repository to online(Github) using this following command"
+	$ git remote add origin https://github.com/lucasjan/Git_training.git
+	$ git push origin master
+
