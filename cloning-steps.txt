@@ -1,0 +1,4 @@
+1. Create a different directory on your Desktop
+2. Go to Git and hit clone command "$ git clone https://github.com/lucasjan/Git_training.git"
+3. Go to the directory of the cloned repository
+4.  
