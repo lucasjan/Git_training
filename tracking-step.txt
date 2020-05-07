@@ -5,13 +5,13 @@ Add task steps:
 3. created online repository "Git_training", note: skip "Initialize this repository with a README"
 4. downloaded git software for remote.
 5. created "Git_training" folder on desktop
-6. opened Git Bash and initialized folder using "git init"
+6. opened Git Bash and initialized folder using this command "git init"
 7. created a text file and saved to folder - "tracking-step.txt"
-8. added "tracking-step.txt" to repository using "git add ."
-9. commit newly added file
-10. pointed local repository to online(Github) using this following command"
-	$ git remote add origin https://github.com/lucasjan/Git_training.git
-	$ git push origin master
+8. added "tracking-step.txt" to repository using this command "git add ."
+9. commit newly added file using this command - "git commit -a -m "your comment"
+10. pointed local repository to online(Github) using this following command
+	"git remote add origin https://github.com/lucasjan/Git_training.git"
+	"git push origin master"
 
 
 

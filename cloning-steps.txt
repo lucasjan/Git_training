@@ -1,4 +1,6 @@
 1. Create a different directory on your Desktop
-2. Go to Git and hit clone command "$ git clone https://github.com/lucasjan/Git_training.git"
-3. Go to the directory of the cloned repository
-4.  
+2. Go to Git and hit clone command "git clone https://github.com/lucasjan/Git_training.git"
+3. Go to the directory of the cloned repository to check files.
+4. Add new file "cloning-steps.txt"
+5. To add new file to the repository use this command "git add ."
+4. To push newly added file from the cloned repository to Githud, use this command "git push origin master" 
