@@ -1,0 +1,21 @@
+1. open Git bash
+2. go to the new directory
+3. clone and pull your existing repository using this command "git clone https://github.com/lucasjan/Git_training.git"
+4. use this command "cd Git_training" to go the repository folder
+5. create the following files: “.env”, “sample.log”, “resource/garbage.text”, “resource/important.php
+6. push new created files using this command "git push origin master"
+7. using .gitignore configuration, include .env and sample.log to your gitignore list.
+  -create file ".gitignore" and add to the clone folder repository
+  - add filename to ".gitignore" using text editor add the following:
+    .env
+    sample.log
+  -add ".gitignore" by using this code "git add ."
+  -commit new change
+
+
+--question: what is the purpose of gitignore file?
+  answer: The purpose of gitignore file is will enable you to to tell Git which files or folders to ignore on a project. 
+	
+
+8. delete the .env files from your remote repository while still having an untracked copy of it in your clone directory. using this code "git rm --cached .env"
+9. -commit new change
