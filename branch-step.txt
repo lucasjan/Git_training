@@ -12,4 +12,7 @@ then will show list like below
 8. add file to be tracked in the 'alpha' branch use this code 'git add .
 9. then commit - 'git commit -m 'added branch-step.txt to alpha branch' 
 10. push the new updates including the new branch using this code 'git push --set-upstream origin alpha'
-11. 
+11. to merge new branch to root/master use this code 'git merge alpha'
+12. To push the current branch and set the remote as upstream, use 'git push --set-upstream origin master'
+
+
