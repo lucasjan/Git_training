@@ -1,0 +1,9 @@
+1. go to Git Bash to check first that you are in the <branch> Master - use this code 'git status'
+2. create new <branch> named 'alpha' using this code 'git branch alpha'
+3. to check the newly added branch, use this code 'git branch --list',
+then will show list like below
+  alpha
+* master
+
+4.the * indicate which branch is currently on
+5. in order to switch to the new branch 'alpha' use this code 'git checkout alpha'
