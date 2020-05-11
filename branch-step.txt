@@ -7,3 +7,9 @@ then will show list like below
 
 4.the * indicate which branch is currently on
 5. in order to switch to the new branch 'alpha' use this code 'git checkout alpha'
+6. add new file 'branch-step.txt' to alpha, you can use this code 'touch branch-step.txt'
+7. update file by adding text then save.
+8. add file to be tracked in the 'alpha' branch use this code 'git add .
+9. then commit - 'git commit -m 'added branch-step.txt to alpha branch' 
+10. push the new updates including the new branch using this code 'git push --set-upstream origin alpha'
+11. 
