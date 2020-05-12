@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-gwapo ko forever
-
-||||||| c8dad5a... change content to gwapo.txt
-gwapo ko 2 times
-
-=======
 gwapo ko
->>>>>>> parent of c8dad5a... change content to gwapo.txt
