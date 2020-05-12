@@ -1,0 +1,21 @@
+1. Create a different directory on your Desktop called 'rollback'
+2. Go to Git and hit clone command "git clone https://github.com/lucasjan/Git_training.git"
+3. Go to the directory of the cloned repository to check files.
+4. Add new file "newfile-for-rollback.txt" and a this text 'this is a new text'
+5. add file use this command "git add ."
+6. commit changes - git commit -a -m 'added newlife-for-rollback.txt and added this text(this is a new text)'
+7. push to Github
+8. edit the file and change the content to. "this is newly updated text".push and commit the file after.
+9. add changes use this command "git add ."
+9. commit changes - git commit -a -m 'update the newlife-for-rollback.txt and added this text(this is newly updated text)'
+10. edit the file and change 1 last time with. "this is my last update".push and commit the file after.
+11. add changes use this command "git add ."
+12. commit changes - git commit -a -m 'update the newlife-for-rollback.txt and added this last text(this is my last update)'
+13. rollback your file to your file where the text content is " this is a new text". use this code 'git revert ref'
+14. if there is CONFLICT (content): Merge conflict - resolve conflict within the file then save
+15. then 'git add .'
+16. then 'git commit -m 'message'
+17. then 'git push' 
+
+
+
